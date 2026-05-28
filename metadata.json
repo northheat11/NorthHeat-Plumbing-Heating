@@ -1,0 +1,6 @@
+{
+  "name": "northHeat Plumbing & Heating",
+  "description": "Professional boiler installations, custom luxury bathrooms, 24/7/365 emergency repairs, and comprehensive local plumbing services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
